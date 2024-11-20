@@ -21,30 +21,30 @@
   },
   {
     "id": "003",
-    "cover": "https://i.ibb.co/64L8YkK/03.jpg",
+    "cover": "https://i.ibb.co/yp7Ncj0/03.jpg",
     "title": "A Journey Through Ancient History",
     "author": "Elizabeth Carter",
-    "author_img": "https://i.ibb.co/pRYZD1v/03.webp",
+    "author_img": "https://i.ibb.co/CM77PWT/03.webp",
     "posted_date": "2024-11-12",
     "reading_time": 7,
     "hashtag": ["#History", "#Culture", "#Travel"]
   },
   {
     "id": "004",
-    "cover": "https://i.ibb.co/64L8YkK/04.jpg",
+    "cover": "https://i.ibb.co/x619mf7/05.jpg",
     "title": "Mastering Your Finances in 2024",
     "author": "Michael Thompson",
-    "author_img": "https://i.ibb.co/pRYZD1v/04.webp",
+    "author_img": "https://i.ibb.co/fk3BJ0c/04.webp",
     "posted_date": "2024-11-18",
     "reading_time": 6,
     "hashtag": ["#Finance", "#MoneyTips", "#Wealth"]
   },
   {
     "id": "005",
-    "cover": "https://i.ibb.co/64L8YkK/05.jpg",
+    "cover": "https://i.ibb.co/r5mYzS1/04.jpg",
     "title": "The Ultimate Guide to Pet Care",
     "author": "Laura Hernandez",
-    "author_img": "https://i.ibb.co/pRYZD1v/05.webp",
+    "author_img": "https://i.ibb.co/qWpV67V/05.webp",
     "posted_date": "2024-11-14",
     "reading_time": 4,
     "hashtag": ["#Pets", "#AnimalLovers", "#CareTips"]
