@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "cover": "https://i.ibb.co/6ysd8k4/01.jpg",
+    "title": "The Art of Minimal Living",
+    "author": "Sophia Bennett",
+    "author_img": "https://i.ibb.co/VjMVNg7/01.webp",
+    "posted_date": "2024-11-15",
+    "reading_time": 5,
+    "hashtag": ["#Minimalism", "#Lifestyle", "#Mindfulness"]
+  },
+  {
+    "id": "002",
+    "cover": "https://i.ibb.co/64L8YkK/02.jpg",
+    "title": "Top 10 Tech Trends of 2024",
+    "author": "James Parker",
+    "author_img": "https://i.ibb.co/pRYZD1v/02.webp",
+    "posted_date": "2024-11-10",
+    "reading_time": 8,
+    "hashtag": ["#Technology", "#Innovation", "#Future"]
+  },
+  {
+    "id": "003",
+    "cover": "https://i.ibb.co/64L8YkK/03.jpg",
+    "title": "A Journey Through Ancient History",
+    "author": "Elizabeth Carter",
+    "author_img": "https://i.ibb.co/pRYZD1v/03.webp",
+    "posted_date": "2024-11-12",
+    "reading_time": 7,
+    "hashtag": ["#History", "#Culture", "#Travel"]
+  },
+  {
+    "id": "004",
+    "cover": "https://i.ibb.co/64L8YkK/04.jpg",
+    "title": "Mastering Your Finances in 2024",
+    "author": "Michael Thompson",
+    "author_img": "https://i.ibb.co/pRYZD1v/04.webp",
+    "posted_date": "2024-11-18",
+    "reading_time": 6,
+    "hashtag": ["#Finance", "#MoneyTips", "#Wealth"]
+  },
+  {
+    "id": "005",
+    "cover": "https://i.ibb.co/64L8YkK/05.jpg",
+    "title": "The Ultimate Guide to Pet Care",
+    "author": "Laura Hernandez",
+    "author_img": "https://i.ibb.co/pRYZD1v/05.webp",
+    "posted_date": "2024-11-14",
+    "reading_time": 4,
+    "hashtag": ["#Pets", "#AnimalLovers", "#CareTips"]
+  }
+]
