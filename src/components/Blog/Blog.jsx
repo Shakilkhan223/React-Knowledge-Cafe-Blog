@@ -12,13 +12,13 @@ const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
     hashtag,
   } = blog;
   return (
-    <div className="mb-16">
+    <div className="mb-5 p-3 border-2 border-gray-100 rounded-2xl">
       <img
-        className="w-full"
+        className="w-full h-[400px] rounded-2xl object-center object-cover mb-8"
         src={cover}
         alt={`Cover Picture of the Blog: ${title}`}
       />
-      <div className="flex justify-between items-center">
+      <div className="flex justify-between items-center mb-8">
         <div className="flex items-center gap-6">
           <img
             className="w-14 h-14 object-cover rounded-full"
@@ -26,8 +26,8 @@ const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
             alt=""
           />
           <div>
-            <h3 className="text-2xl">{author}</h3>
-            <p>{posted_date}</p>
+            <h3 className="text-2xl font-bold">{author}</h3>
+            <p className="text-base text-gray-500">Posted on: {posted_date}</p>
           </div>
         </div>
         <div className="flex justify-between items-center">
@@ -40,17 +40,17 @@ const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
           </button>
         </div>
       </div>
-      <h2 className="text-4xl">{title}</h2>
-      <p>
+      <h2 className="text-4xl font-bold">{title}</h2>
+      <p className="text-gray-500 my-6">
         {hashtag.map((hash, idx) => (
-          <span key={idx} className="ml-2">
+          <span key={idx} className="mr-2">
             <a href="#">{hash}</a>
           </span>
         ))}
       </p>
       <button
         onClick={() => handleMarkAsRead(id, reading_time)}
-        className="text-purple-800 font-bold underline"
+        className="text-white font-bold bg-red-400 border py-2 px-4 rounded-2xl"
       >
         Mark as read
       </button>
